@@ -1,0 +1,1 @@
+I encountered such cipher task and decided to decode it
